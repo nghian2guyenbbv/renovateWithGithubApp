@@ -4,7 +4,7 @@
   "baseBranches": ["master"],
   "branchPrefix": "renovate/",
   "dependencyDashboardTitle":"Renovate Dashboard",
-  "commitMessagePrefix": "Renovate update",
+  "commitMessagePrefix": "Renovate update - ",
   "prHourlyLimit": 0,
   "branchConcurrentLimit": 0,
   "prConcurrentLimit": 0,
